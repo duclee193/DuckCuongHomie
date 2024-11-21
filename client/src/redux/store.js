@@ -1,3 +1,4 @@
+//this is store.js
 import { configureStore } from "@reduxjs/toolkit";
 import {
   persistStore,
